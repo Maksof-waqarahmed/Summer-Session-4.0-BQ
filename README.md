@@ -1,4 +1,4 @@
-# 👨‍🏫 Bano Qabil 4.0 – Student Learning Repository
+# 👨‍🏫 Bano Qabil 4.0 (Summer Session) – Student Learning Repository
 
 Welcome to the official learning repository for students enrolled in the **Me Bano Qabil 4.0 Summer Session**. This repo includes notes, classwork, practice exercises, and project files for the following courses:
 
