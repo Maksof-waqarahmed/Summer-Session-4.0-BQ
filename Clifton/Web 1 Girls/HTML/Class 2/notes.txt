@@ -1,0 +1,6 @@
+1) Create a folder. 
+(ctrl + shift + n)
+2) Write "CMD" on search bar 
+of a Folder and press enter.
+3) Write a commad "code ." 
+on it and press enter.

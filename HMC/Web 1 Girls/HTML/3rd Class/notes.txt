@@ -1,0 +1,5 @@
+1) Select search bar and type "cmd" and press enter.
+2) Write a command "code ." and again hit enter.
+
+Tag Syntax:
+<tagsName> </tagsName>
